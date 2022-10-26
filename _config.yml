@@ -1,0 +1,7 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme 
+
+title: 欧阳xx
+description: welcome
+show_downloads: ['true']
